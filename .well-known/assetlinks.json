@@ -1,11 +1,1 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.erhodes.instanttest",
-      "sha256_cert_fingerprints":
-        ["DA:CC:38:C0:79:94:74:91:AC:E5:9C:73:87:B3:D2:B7:76:50:16:9B:57:F6:EF:F9:2A:29:2C:3C:E7:3F:67:54"]
-    }
-  }
-]
+This is a json file
