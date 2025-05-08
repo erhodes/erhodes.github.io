@@ -7,5 +7,14 @@
       "sha256_cert_fingerprints":
         ["DA:CC:38:C0:79:94:74:91:AC:E5:9C:73:87:B3:D2:B7:76:50:16:9B:57:F6:EF:F9:2A:29:2C:3C:E7:3F:67:54"]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gemalto.mpassplus",
+      "sha256_cert_fingerprints":
+      ["4C:41:85:5E:BF:7C:F2:05:A0:3E:5D:E4:9A:1C:4D:8E:E4:AE:C4:07:91:90:01:EB:27:55:BB:E7:6E:6E:D6:F3"]
+    }
   }
 ]
