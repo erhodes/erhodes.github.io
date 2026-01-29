@@ -28,6 +28,7 @@ string|intelligence|SW50ZWxsaWdlbmNl
 string|inventory|SW52ZW50b3J5
 string|i|SQ==
 string|loadout|TG9hZG91dA==
+string|login|TG9naW4=
 string|luck|THVjaw==
 string|l|TA==
 string|major|TWFqb3I=
@@ -60,4 +61,5 @@ string|throwing|VGhyb3dpbmc=
 string|toughness|VG91Z2huZXNz
 string|unequip|VW5lcXVpcA==
 string|unselect|VW5zZWxlY3Q=
+string|user_list|VXNlciBMaXN0
 string|vitals|Vml0YWxz
