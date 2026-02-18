@@ -1,4 +1,5 @@
 version:0
+string|abilities|QWJpbGl0aWVz
 string|acquire_item|QWNxdWlyZSBJdGVt
 string|acquire|QWNxdWlyZQ==
 string|add_perk|QWRkIFBlcms=
@@ -35,6 +36,7 @@ string|major|TWFqb3I=
 string|medicine|TWVkaWNpbmU=
 string|melee|TWVsZWU=
 string|minor|TWlub3I=
+string|passives|UGFzc2l2ZXM=
 string|perception|UGVyY2VwdGlvbg==
 string|perks|UGVya3M=
 string|p|UA==
