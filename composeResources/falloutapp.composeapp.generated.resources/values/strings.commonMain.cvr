@@ -2,6 +2,7 @@ version:0
 string|abilities|QWJpbGl0aWVz
 string|acquire_item|QWNxdWlyZSBJdGVt
 string|acquire|QWNxdWlyZQ==
+string|add_enemy|QWRkIEVuZW15
 string|add_perk|QWRkIFBlcms=
 string|agility|QWdpbGl0eQ==
 string|athletics|QXRobGV0aWNz
@@ -14,10 +15,15 @@ string|character_screen|Q2hhcmFjdGVyIFNjcmVlbg==
 string|character|Q2hhcmFjdGVy
 string|charisma|Q2hhcmlzbWE=
 string|courage|Q291cmFnZQ==
+string|craft_failed_message|Tm90IGVub3VnaCBpbmdyZWRpZW50cy4=
+string|craft_failed|Q2Fubm90IENyYWZ0
+string|craft_success|SXRlbSBDcmFmdGVk
+string|craft|Q3JhZnQ=
 string|c|Qw==
 string|delete|RGVsZXRl
 string|discard|RGlzY2FyZA==
 string|done|RG9uZQ==
+string|encounters|RW5jb3VudGVycw==
 string|endurance|RW5kdXJhbmNl
 string|engineering|RW5naW5lZXJpbmc=
 string|equip|RXF1aXA=
@@ -30,6 +36,8 @@ string|heal|SGVhbA==
 string|intelligence|SW50ZWxsaWdlbmNl
 string|inventory|SW52ZW50b3J5
 string|i|SQ==
+string|learn_recipe|TGVhcm4gUmVjaXBl
+string|learn|TGVhcm4=
 string|loadout|TG9hZG91dA==
 string|login|TG9naW4=
 string|luck|THVjaw==
@@ -44,6 +52,7 @@ string|perception|UGVyY2VwdGlvbg==
 string|perks|UGVya3M=
 string|p|UA==
 string|radiation|UmFkaWF0aW9u
+string|recipes|UmVjaXBlcw==
 string|remove_perk|UmVtb3ZlIFBlcms=
 string|repair|UmVwYWly
 string|requires|UmVxdWlyZXM=
